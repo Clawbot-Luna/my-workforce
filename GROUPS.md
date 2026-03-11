@@ -10,7 +10,6 @@ Categories and their always-on supervisor agents:
 | Business | Radar |
 | Personal | Atlas |
 | DevOps | Infra Monitor |
-| Operations | Steward |
 | Finance | Revenue Analyst |
 | Education | Tutor |
 | Healthcare | Wellness Coach |
