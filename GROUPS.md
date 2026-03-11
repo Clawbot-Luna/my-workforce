@@ -22,6 +22,7 @@ Categories and their always-on supervisor agents:
 | SaaS | Usage Analytics |
 | Real Estate | Market Analyzer |
 | Freelance | Client Manager |
+| Moltbook | Moltbook Supervisor |
 | Coordinator | Luna |
 
 All other role templates in awesome-openclaw-agents are intended to be spawned on demand by the appropriate supervisor.
