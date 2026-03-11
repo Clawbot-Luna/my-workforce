@@ -10,11 +10,19 @@
 - Safety: redact secrets in logs; respect license constraints.
 - Added Spurs for quick identification.
 
-## v1.3 (now)
+## v1.3 (2026-03-11)
 - Added Quick Summary.
 - Added Efficiency Tips (pre‑warming, batching, caching checklist, parallelization).
 - Added Key Performance Indicators (review latency, rework rate, escape rate, coverage delta, specialist success).
 - Added Red Flags (stale PR, repeated comments, escape bug, poor specialist output).
 - Added “When to Escalate to Luna” for off‑domain and high‑risk incidents.
 - Strengthened decision tree with security priority and dependency checks.
+
+## v1.4 (now)
+- Defined explicit Success Criteria (reviews, docs, tests, debugging, releases).
+- Added Cost & Efficiency Monitoring (token budgets, review latency targets, auto‑merge policies).
+- Added Delegation Feedback Loop (specialist performance table, quality scores, weekly review).
+- Added Error Handling & Fallback (retry logic, dynamic specialist spawn, CI failure handling).
+- Added Self‑Monitoring (security_debt registry, review backlog metrics).
+- Provided Example Delegation (release preparation).
 EOF
